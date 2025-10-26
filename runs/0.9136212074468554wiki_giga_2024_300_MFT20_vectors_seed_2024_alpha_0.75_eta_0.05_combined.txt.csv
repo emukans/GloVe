@@ -1,0 +1,23 @@
+lookup, context, word, cosine distance
+dog, the first domesticated animal, 254, 0.5888216915501396
+dog, the first domesticated animal barking, 19, 0.6659675817085573
+dog, the first domesticated animal barking hunting, 9, 0.6840110666593481
+dog, the first domesticated animal barking hunting friend, 11, 0.7075995979791098
+dog, the first domesticated animal barking hunting best human friend, 90, 0.6854555721395192
+dog, the first domesticated animal barking hunting security, 93, 0.6567197195662485
+dog, the first domesticated animal barking hunting wolf, 2, 0.7069580490425829
+dog, the first domesticated animal barking, 19, 0.6659675817085573
+cat, sacred animal in ancient egypt, 2454, 0.40874196709659
+cat, sacred animal in ancient egypt whiskers, 737, 0.4793642938338358
+cat, sacred animal in ancient egypt whiskers meow, 120, 0.5550592826546221
+cat, sacred animal in ancient egypt whiskers meow hunting mouse, 20, 0.6179363264501083
+cat, sacred animal in ancient egypt whiskers meow hunting mouse milk, 24, 0.6225571224616809
+cat, sacred animal in ancient egypt whiskers meow hunting mouse loves milk, 21, 0.639895481676173
+cat, sacred animal in ancient egypt whiskers meow hunting mouse drink milk, 60, 0.6172361638123252
+cat, sacred animal in ancient egypt whiskers meow hunting mouse tiger, 14, 0.6333263980469418
+cat, sacred animal in ancient egypt whiskers meow hunting mouse tiger small, 71, 0.6262896682453524
+cat, sacred animal in ancient egypt whiskers meow hunting mouse fur, 8, 0.6222580220769842
+cat, sacred animal in ancient egypt whiskers meow fur, 48, 0.572519995003808
+cat, sacred animal in ancient egypt whiskers meow fur claws, 8, 0.5890492367850707
+cat, sacred animal in ancient egypt whiskers meow fur claws hunting, 19, 0.5880382920491712
+cat, sacred animal in ancient egypt whiskers meow fur claws hunting mouse, 4, 0.6312142348800888
